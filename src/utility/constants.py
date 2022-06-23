@@ -1,0 +1,3 @@
+CELL = 80
+N_OF_CELL = 8
+SIZE = CELL * N_OF_CELL
